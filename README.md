@@ -52,5 +52,7 @@ The data confirmed that a minority of customers contribute to a majority of the 
 * **Communication:** SCQA Framework for Stakeholder Presentation
 
 ---
+### Analysis
+![image](https://github.com/vnandini879/TATA-Intership/blob/9a49ba71ffa0e241dcf7b35d4439dff634acd8b1/solution.png)
 
 > **Reflections:** This simulation allowed me to bridge the gap between technical data cleaning and executive storytelling, ensuring that every chart solved a specific business "pain point" for the Tata leadership team.
